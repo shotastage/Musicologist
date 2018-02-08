@@ -1,6 +1,6 @@
 """
 Musicologist
-mrgparse.py
+bin.py
 
 Created by Shota Shimazu on 2018/2/9
 
