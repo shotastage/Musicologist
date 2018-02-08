@@ -13,6 +13,7 @@ name = "pypi"
 
 pylint = "*"
 mkdocs = "*"
+jupyter = "*"
 
 
 [requires]
