@@ -7,6 +7,9 @@ name = "pypi"
 
 [packages]
 
+pretty-midi = "*"
+numpy = "*"
+tensorflow = "*"
 
 
 [dev-packages]
