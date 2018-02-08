@@ -1,0 +1,20 @@
+project:
+    name: Mainstage
+    version: 0.0.1
+    author: Shota Shimazu <hornet.live.mf@gmail.com>
+    git: https://github.com/shotastage/Musicologist.git
+    license: Mainstage Software License
+    description: This is web application shell of Musicologist.
+
+django:
+    path: mainstage
+    package: pipenv
+    database: PostgreSQL
+
+frontend:
+    path: shell
+    package: yarn
+    builder: webpack
+
+djworkspace:
+    path: .mirage

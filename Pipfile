@@ -10,6 +10,7 @@ name = "pypi"
 pretty-midi = "*"
 numpy = "*"
 tensorflow = "*"
+django = "*"
 
 
 [dev-packages]
@@ -17,6 +18,7 @@ tensorflow = "*"
 pylint = "*"
 mkdocs = "*"
 jupyter = "*"
+django-mirage = "*"
 
 
 [requires]
