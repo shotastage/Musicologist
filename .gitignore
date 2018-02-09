@@ -149,3 +149,4 @@ Miragefile.secret
 #########################################################
 *.sqlite3
 .vscode/
+notebooks/*.mid
