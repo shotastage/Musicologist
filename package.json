@@ -1,5 +1,5 @@
 {
-  "name": "Musicologist",
+  "name": "musicologist",
   "version": "1.0.0",
   "description": "Music analysis",
   "main": "index.js",
@@ -7,6 +7,19 @@
   "author": "Shota Shimazu <hornet.live.mf@gmail.com>",
   "license": "AGPL",
   "devDependencies": {
+    "create-react-app": "^1.5.1",
+    "node-sass": "^4.7.2",
     "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   }
 }

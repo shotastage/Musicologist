@@ -1,4 +1,5 @@
 """
+
 Musicologist
 debug.py
 
@@ -8,6 +9,7 @@ Copyright (c) 2018 Shota Shimazu All Rights Reserved.
 
 This software is released under the terms of GNU AFFERO GENERAL PUBLIC LICENSE, see LICENSE for detail.
 https://github.com/shotastage/Musicologist/blob/master/LICENSE
+
 """
 
 import os, sys
